@@ -8,6 +8,7 @@ public class Main {
         Lec3 lec3 = new Lec3();
         Lec4 lec4 = new Lec4();
         Lec5 lec5 = new Lec5();
+        int a = 5;
 
     }
 }
