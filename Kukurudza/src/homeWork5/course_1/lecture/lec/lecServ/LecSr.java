@@ -1,8 +1,8 @@
-package course_1.lecture.lec.lecServ;
+package homeWork5.course_1.lecture.lec.lecServ;
 
-import course_1.lecture.lec.lec.Lec1;
-import course_1.lecture.lec.lec.Lec2;
-import course_1.lecture.lec.lec.Lec3;
+import homeWork5.course_1.lecture.lec.lec.Lec1;
+import homeWork5.course_1.lecture.lec.lec.Lec2;
+import homeWork5.course_1.lecture.lec.lec.Lec3;
 
 
 public class LecSr {

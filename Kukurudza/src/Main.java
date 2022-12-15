@@ -1,4 +1,4 @@
-import course_1.lecture.lec.lec.*;
+import homeWork5.course_1.lecture.lec.lec.*;
 
 public class Main {
     public static void main(String[] args) {

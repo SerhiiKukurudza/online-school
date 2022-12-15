@@ -1,4 +1,4 @@
-package course_1.teacher.teacher;
+package homeWork5.course_1.teacher.teacher;
 
 public class Tch2 {
 

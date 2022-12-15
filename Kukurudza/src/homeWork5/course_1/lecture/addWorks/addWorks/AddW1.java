@@ -1,4 +1,4 @@
-package course_1.lecture.addWorks.addWorks;
+package homeWork5.course_1.lecture.addWorks.addWorks;
 
 public class AddW1 {
 

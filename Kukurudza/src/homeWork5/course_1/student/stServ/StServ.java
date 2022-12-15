@@ -1,7 +1,7 @@
-package course_1.student.stServ;
+package homeWork5.course_1.student.stServ;
 
-import course_1.student.student.St1;
-import course_1.student.student.St2;
+import homeWork5.course_1.student.student.St1;
+import homeWork5.course_1.student.student.St2;
 
 
 public class StServ {

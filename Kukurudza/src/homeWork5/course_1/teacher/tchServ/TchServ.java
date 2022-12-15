@@ -1,7 +1,7 @@
-package course_1.teacher.tchServ;
+package homeWork5.course_1.teacher.tchServ;
 
-import course_1.teacher.teacher.Tch1;
-import course_1.teacher.teacher.Tch2;
+import homeWork5.course_1.teacher.teacher.Tch1;
+import homeWork5.course_1.teacher.teacher.Tch2;
 
 public class TchServ {
     public static void teacher() {
