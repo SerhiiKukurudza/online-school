@@ -1,14 +1,10 @@
 package course_1.lecture.lec.lec;
 
-public class Lec3 {
+public class Lec6 {
 
     public int id;
 
-    public Lec3(int id) {
+    public Lec6(int id) {
         this.id = id;
     }
 }
-
-
-
-

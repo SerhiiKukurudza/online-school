@@ -2,8 +2,9 @@ package course_1.lecture.lec.lec;
 
 public class Lec2 {
 
-    private int id = 2;
+    public int id;
 
-    public final int LEC = 2; //lecture number
-
+    public Lec2(int id) {
+        this.id = id;
+    }
 }
