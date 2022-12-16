@@ -1,31 +1,23 @@
 package course_1.lecture.lec.lecServ;
 
-import course_1.lecture.lec.lec.Lec1;
-import course_1.lecture.lec.lec.Lec2;
-import course_1.lecture.lec.lec.Lec3;
+import course_1.lecture.lec.lec.*;
 
 
 public class LecSr {
-    public void lecture() {
-        Lec1 lec1 = new Lec1();
-        int lc1 = lec1.LEC;
-        Lec2 lec2 = new Lec2();
-        int lc2 = lec2.LEC;
-        Lec3 lec3 = new Lec3();
-        int lc3 = lec3.LEC;
-        System.out.println("lecture №" + lc1);
-        System.out.println("lecture №" + lc2);
-        System.out.println("lecture №" + lc2);
-    }
 
     public void counter() {
-        int lect = 0;
-        Lec1 lec1 = new Lec1();
+        int lect = 1;
+        Lec1 lec1 = new Lec1(1);
         lect++;
-        Lec2 lec2 = new Lec2();
+        Lec2 lec2 = new Lec2(2);
         lect++;
-        Lec3 lec3 = new Lec3();
+        Lec3 lec3 = new Lec3(3);
+        lect++;
+        Lec4 lec4 = new Lec4(4);
+        lect++;
+        Lec5 lec5 = new Lec5(5);
+        lect++;
+        Lec6 lec6 = new Lec6(6);
         System.out.println(lect + " lectures");
     }
-
 }
