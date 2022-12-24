@@ -1,17 +1,23 @@
+package homeWork7.course_1.lecture.lec.lecServ;
+
 import homeWork7.course_1.lecture.lec.lec.*;
-import homeWork7.course_1.lecture.lec.lecServ.LecSr;
 
-public class Main {
-    public static void main(String[] args) {
 
+public class LecSr {
+
+    public void counter() {
+        int lect = 1;
         Lec1 lec1 = new Lec1(1);
+        lect++;
         Lec2 lec2 = new Lec2(2);
+        lect++;
         Lec3 lec3 = new Lec3(3);
+        lect++;
         Lec4 lec4 = new Lec4(4);
+        lect++;
         Lec5 lec5 = new Lec5(5);
+        lect++;
         Lec6 lec6 = new Lec6(6);
-        System.out.println(lec6.id);
-        LecSr lecSr1 = new LecSr();
-        lecSr1.counter();
+        System.out.println(lect + " lectures");
     }
 }
