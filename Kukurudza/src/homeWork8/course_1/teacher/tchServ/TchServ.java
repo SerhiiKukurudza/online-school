@@ -13,9 +13,9 @@ public class TchServ {
 
     public static void counter() {
         int tch = 0;
-        Tch1 tch1 = new Tch1();
+        Tch1 tch1 = new Tch1(1);
         tch++;
-        Tch2 tch2 = new Tch2();
+        Tch2 tch2 = new Tch2(2);
         tch++;
         System.out.println(tch + " teacher");
     }
