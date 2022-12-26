@@ -1,4 +1,4 @@
-package homeWork6;
+package homeWork8;
 
 public class Qwerty {
 }
