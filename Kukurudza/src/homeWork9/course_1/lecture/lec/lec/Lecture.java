@@ -1,10 +1,10 @@
 package homeWork9.course_1.lecture.lec.lec;
 
-public class Lec1 {
+public class Lecture {
 
     public int id;
 
-    public Lec1(int id) {
+    public Lecture(int id) {
         this.id = id;
     }
 }

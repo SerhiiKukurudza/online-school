@@ -1,6 +1,6 @@
 package homeWork9;
 
-import homeWork9.course_1.teacher.teacher.Tch1;
+import homeWork9.course_1.teacher.teacher.Teacher;
 import homeWork9.course_1.teacher.teacher.Tch2;
 
 import java.util.Scanner;
@@ -18,7 +18,7 @@ public class CategoryTch {
 
             switch (t) {
                 case 1:
-                    Tch1 tch1 = new Tch1(1);
+                    Teacher tch1 = new Teacher(1);
                     System.out.println("Vasyl Ivanovitch - teacher " + tch1.id);
                     System.out.println("Teacher1");
                     break;
