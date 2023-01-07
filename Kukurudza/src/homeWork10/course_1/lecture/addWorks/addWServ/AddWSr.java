@@ -1,6 +1,6 @@
-package homeWork15.course_1.lecture.addWorks.addWServ;
+package homeWork10.course_1.lecture.addWorks.addWServ;
 
-import homeWork15.course_1.lecture.addWorks.addWorks.AddW1;
+import homeWork10.course_1.lecture.addWorks.addWorks.AddW1;
 
 
 public class AddWSr {

@@ -1,4 +1,4 @@
-package homeWork15.course_1.lecture.homeWork;
+package homeWork10.course_1.lecture.homeWork;
 
 public class HWServis {
 

@@ -1,6 +1,6 @@
-package homeWork15.course_1.teacher.tchServ;
+package homeWork10.course_1.teacher.tchServ;
 
-import homeWork15.course_1.teacher.teacher.Teacher;
+import homeWork10.course_1.teacher.teacher.Teacher;
 
 public class TchServ {
 

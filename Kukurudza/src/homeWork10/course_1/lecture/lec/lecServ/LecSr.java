@@ -1,6 +1,6 @@
-package homeWork15.course_1.lecture.lec.lecServ;
+package homeWork10.course_1.lecture.lec.lecServ;
 
-import homeWork15.course_1.lecture.lec.lec.*;
+import homeWork10.course_1.lecture.lec.lec.Lecture;
 
 
 public class LecSr {
@@ -28,7 +28,7 @@ public class LecSr {
         for (int i = 0; i < lectures.length; i++) {
             String name = "Lecture";
             lectures[i] = new Lecture(i);
-            System.out.println(name + " " + lectures[i].id);
+            System.out.println(name + " " + lectures[i].getId());
         }
     }
 }
