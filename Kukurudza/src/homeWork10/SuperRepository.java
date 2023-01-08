@@ -7,12 +7,12 @@ import java.util.Arrays;
 
 public class SuperRepository {
 
-    public static Lecture[] getAll() {
+    public Lecture[] getAll() {
         Lecture[] lectures = new Lecture[3];
         return lectures;
     }
 
-    public static void add() {
+    public void add() {
         Lecture[] lectures = DataLecture.getLectures();
         lectures[0] = new Lecture(1);
         lectures[1] = new Lecture(2);
@@ -26,7 +26,7 @@ public class SuperRepository {
         System.out.println(Arrays.toString(lectures1));
     }
 
-    public static void getByld() {
+    public void getByld() {
         Lecture[] lectures = DataLecture.getLectures();
         lectures[0] = new Lecture(1);
         lectures[1] = new Lecture(2);
@@ -39,7 +39,7 @@ public class SuperRepository {
         }
     }
 
-    public static void deleteByld() {
+    public void deleteByld() {
         Lecture[] lectures = DataLecture.getLectures();
         lectures[0] = new Lecture(1);
         lectures[1] = new Lecture(2);
