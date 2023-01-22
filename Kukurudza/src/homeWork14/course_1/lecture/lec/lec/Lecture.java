@@ -1,9 +1,8 @@
 package homeWork14.course_1.lecture.lec.lec;
 
-import homeWork13.exetend.SuperEntities;
 import homeWork14.enumRole.Person;
 
-public class Lecture extends SuperEntities {
+public class Lecture {
 
     private int id;
     private int courseId;

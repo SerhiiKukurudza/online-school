@@ -1,8 +1,6 @@
 package homeWork14.course_1.student.student;
 
-import homeWork13.exetend.SuperEntities;
-
-public class Student extends SuperEntities {
+public class Student {
 
     private int id;
 

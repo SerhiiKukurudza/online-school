@@ -1,8 +1,6 @@
 package homeWork14.course_1.teacher.teacher;
 
-import homeWork13.exetend.SuperEntities;
-
-public class Teacher extends SuperEntities {
+public class Teacher {
 
     private int id;
 
